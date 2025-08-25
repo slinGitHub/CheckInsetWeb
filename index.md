@@ -15,7 +15,7 @@ See Change-Log here:
 
 (Old Releases)    
 
-### Checkmate Features
+### CheckInset Features
 - Add your own pictures from your catheter positions
 - Cartoonification of your pictures on your phone (Tflite model)
 - Visualize the last pump catheter positions
