@@ -41,7 +41,7 @@ Visit the [CheckInset documentation](documentation.md) webpage.
 
 ### Used Data Sources
 
-Tflite model XXX
+- Tflite model (for Cartonnization)
 
 ### Donations
 **This project can be supported by you!** If you would like to support this project's further development, feel free to donate. Your donation is highly appreciated (especially for all the coffee during programming) Thank you!
@@ -53,8 +53,8 @@ Tflite model XXX
 Visit the [FAQ](faq.md) page.
 
 ### Disclaimer
-Checkmate was not written for commercial purposes and is published as open source.
+CheckInset was not written for commercial purposes and is published as open source.
 Therefore I will not take any responsibility for using this app.
 
-Copyright by N.B., Sept 2022 
+Copyright by N.B., Sept 2025 
 (slincheckmate(at)gmail.com)
