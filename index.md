@@ -15,6 +15,11 @@ See Change-Log here:
 
 (Old Releases)    
 
+### CheckInset Usage
+1. Add multiple pictures from all your catheter positions
+2. Add your present catheter positions and edit application date
+
+
 ### CheckInset Features
 - Add your own pictures from your catheter positions
 - Cartoonification of your pictures on your phone (Tflite model)
