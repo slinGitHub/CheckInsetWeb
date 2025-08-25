@@ -7,11 +7,11 @@ This project is published as open source.
 
 ### Download APK
 Download the latest CheckInset version here:    
-[CheckmateV034.apk(2023/02/04)](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV034.apk)  
+[CheckInsetV01.apk(2023/02/04)](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV034.apk)  
 
 
 See Change-Log here: 
-[Checkmate Change-Log](changeLog.md)
+[CheckInset Change-Log](changeLog.md)
 
 (Old Releases)    
 
