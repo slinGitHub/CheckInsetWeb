@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/53019596/114172661-3c119100-9936-11eb-826f-375bff51032b.png" width="100" height="100">
+<img width="100" height="100" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/c9f48819-acf5-4151-95ca-cfeca11dfc80" />
 
 
 ## Welcome to the CheckInset Homepage
