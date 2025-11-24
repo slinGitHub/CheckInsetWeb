@@ -24,11 +24,6 @@ This project is published as open source.
 - Show the last catheter positions and days since application
 - Hide all catheter positions if beyond day entered in setting
 
-### SkinSafe Code Repository
-The Checkmate source code can be reviewed and compiled from:  
-[Link to SkinSafe Source](https://github.com/slinGitHub/SkinSafe/tree/develop)
-
-
 ### SkinSafe Documentation
 Visit the [SkinSafe documentation](documentation.md) webpage.
 
