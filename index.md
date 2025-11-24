@@ -31,6 +31,9 @@ See Change-Log here:
 - Show the last catheter positions and days since application
 - Hide all catheter positions if beyond day entered in setting
 
+<img width="984" height="2016" alt="1" src="https://github.com/user-attachments/assets/5ab2a72b-c838-4fec-91b8-9b9d713cd72d" />
+
+
 <img src="https://user-images.githubusercontent.com/53019596/122987256-ae740800-d3a0-11eb-8ff1-1be8cea0dcb2.png" width="300">
 <img src="https://user-images.githubusercontent.com/53019596/122987398-d7949880-d3a0-11eb-9047-2508bec74c77.png" width="300">
 
