@@ -25,14 +25,14 @@ See Change-Log here:
 - Visualize the last pump catheter positions
 - Show all history catheter positions
 - Show the catheter tolerability rating
-  <img width="987" height="2017" alt="4" src="https://github.com/user-attachments/assets/0f971b6a-995a-408e-874c-cf6aa2155522" width="300"/>
+  <img src="https://github.com/user-attachments/assets/0f971b6a-995a-408e-874c-cf6aa2155522" width="300"/>
 - Switch between photo and cartoonified picture
-  <img width="984" height="2016" alt="2" src="https://github.com/user-attachments/assets/0a2f3db0-6a26-4d49-8eb9-2782913c6e05" width="300"/>
+  <img src="https://github.com/user-attachments/assets/0a2f3db0-6a26-4d49-8eb9-2782913c6e05" width="300"/>
 
 
 ### SkinSafe GUI Overview
 - Show the last catheter positions and days since application
-  <img width="984" height="2016" alt="1" src="https://github.com/user-attachments/assets/5ab2a72b-c838-4fec-91b8-9b9d713cd72d" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5ab2a72b-c838-4fec-91b8-9b9d713cd72d" width="300"/>
 - Hide all catheter positions if beyond day entered in setting
 
 ### SkinSafe Code Repository
