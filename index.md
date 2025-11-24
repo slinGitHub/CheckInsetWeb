@@ -5,16 +5,6 @@
 SkinSafe was written to give you an easy overview of your last pump catheter positions.
 This project is published as open source.
 
-### Download APK
-Download the latest SkinSafe version here:    
-[SkinSafeV01.apk(2025/09/01)](https://github.com/slinGitHub/Checkmate/releases/download/2/CheckmateV034.apk)  
-
-
-See Change-Log here: 
-[SkinSafe Change-Log](changeLog.md)
-
-(Old Releases)    
-
 ### SkinSafe Usage
 1. Add multiple pictures from all your catheter positions
 2. Add your present catheter positions and edit settings of current position
@@ -39,12 +29,10 @@ The Checkmate source code can be reviewed and compiled from:
 
 
 ### SkinSafe Documentation
-
 Visit the [SkinSafe documentation](documentation.md) webpage.
 
 ### Used Data Sources
-
-- Tflite model (for Cartoonization)
+Tflite model (for Cartoonization)
 
 ### Donations
 **This project can be supported by you!** If you would like to support this project's further development, feel free to donate. Your donation is highly appreciated (especially for all the coffee during programming) Thank you!
