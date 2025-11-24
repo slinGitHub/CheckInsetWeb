@@ -44,4 +44,4 @@ SkinSafe was not written for commercial purposes.
 Therefore I will not take any responsibility for using this app.
 
 Copyright by N.B., Sept 2025 
-(slincheckmate(at)gmail.com)
+(labs.busch(at)gmail.com)
