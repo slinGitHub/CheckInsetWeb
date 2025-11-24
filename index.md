@@ -16,6 +16,7 @@ This project is published as open source.
 - Show all history catheter positions
 - Show the catheter tolerability rating
 - Switch between photo and cartoonified picture
+  
   <img src="https://github.com/user-attachments/assets/8f72b9b2-e6f9-4424-bcd3-414a61b375c4" width="1500"/>
 
 
