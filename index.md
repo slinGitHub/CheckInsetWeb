@@ -26,7 +26,8 @@ See Change-Log here:
 - Show all history catheter positions
 - Show the catheter tolerability rating
 - Switch between photo and cartoonified picture
-  <img src="https://github.com/user-attachments/assets/b23065c2-6e87-41ab-933a-082c48225706" width="1500"/>
+  <img src="https://github.com/user-attachments/assets/8f72b9b2-e6f9-4424-bcd3-414a61b375c4" width="1500"/>
+
 
 ### SkinSafe GUI Overview
 - Show the last catheter positions and days since application
