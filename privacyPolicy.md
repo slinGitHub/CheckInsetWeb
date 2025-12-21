@@ -1,15 +1,12 @@
 Privacy Policy
 1. Controller
-
-The controller responsible for data processing in connection with this app is:
-
-N. Busch
-Email: labs.busch(at)gmail.com
+  The controller responsible for data processing in connection with this app is:
+  N. Busch
+  Email: labs.busch(at)gmail.com
 
 2. General Information
-
-We take the protection of your personal data seriously.
-This app processes personal data exclusively in accordance with applicable data protection laws, in particular the General Data Protection Regulation (GDPR).
+  We take the protection of your personal data seriously.
+  This app processes personal data exclusively in accordance with applicable data protection laws, in particular the General Data Protection Regulation (GDPR).
 
 3. Data Processing Within the App
 a) Photo Capture
