@@ -39,6 +39,9 @@ Tflite model (for Cartoonization)
 ### FAQ
 Visit the [FAQ](faq.md) page.
 
+### Privacy Policy
+Visit the [Privacy Policy](privacyPolicy.md) page.
+
 ### Disclaimer
 SkinSafe was not written for commercial purposes.
 Therefore I will not take any responsibility for using this app.
