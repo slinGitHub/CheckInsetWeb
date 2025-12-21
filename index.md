@@ -24,9 +24,6 @@ This project is published as open source.
 - Show the last catheter positions and days since application
 - Hide all catheter positions if beyond day entered in setting
 
-### SkinSafe Documentation
-Visit the [SkinSafe documentation](documentation.md) webpage.
-
 ### Used Data Sources
 Tflite model (for Cartoonization)
 
