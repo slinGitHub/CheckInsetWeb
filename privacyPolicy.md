@@ -20,26 +20,26 @@ b) Data Storage
   is not automatically shared  
   is not analyzed or evaluated  
 
-4. No Data Sharing
-  This app:
-  does not collect usage statistics
-  does not use analytics or tracking tools
-  does not communicate with external servers
-  does not integrate third-party services (e.g. ads, analytics, cloud storage)
-  Personal data is not shared with third parties.
+4. No Data Sharing  
+  This app:  
+  does not collect usage statistics  
+  does not use analytics or tracking tools  
+  does not communicate with external servers  
+  does not integrate third-party services (e.g. ads, analytics, cloud storage)  
+  Personal data is not shared with third parties.  
 
-5. App Permissions
-  The app requires the following permission:
-  Camera
-  → used solely for taking photos within the app
-  Permissions are used only for their intended purpose.
+5. App Permissions  
+  The app requires the following permission:  
+  Camera  
+  → used solely for taking photos within the app  
+  Permissions are used only for their intended purpose.  
 
-6. User Rights
-  Users have the right to:
-  access information about their data
-  delete locally stored data at any time (e.g. by deleting photos or uninstalling the app)
-  stop using the app at any time
-  Since no data is transmitted to us, all data processing takes place exclusively on the user’s device.
+6. User Rights  
+  Users have the right to:  
+  access information about their data  
+  delete locally stored data at any time (e.g. by deleting photos or uninstalling the app)  
+  stop using the app at any time  
+  Since no data is transmitted to us, all data processing takes place exclusively on the user’s device.  
 
 7. Changes to This Privacy Policy
   We reserve the right to update this Privacy Policy if app functionality changes or legal requirements are updated.
