@@ -5,7 +5,7 @@ Privacy Policy
   Email: labs.busch(at)gmail.com  
 
 3. General Information
-  We take the protection of your personal data seriously.  
+  I take the protection of your personal data seriously.  
   This app processes personal data exclusively in accordance with applicable data protection laws, in particular the General Data Protection Regulation (GDPR).
 
 4. Data Processing Within the App  
@@ -42,9 +42,9 @@ b) Data Storage
   Since no data is transmitted to us, all data processing takes place exclusively on the user’s device.  
 
 7. Changes to This Privacy Policy
-  We reserve the right to update this Privacy Policy if app functionality changes or legal requirements are updated.
+  I reserve the right to update this Privacy Policy if app functionality changes or legal requirements are updated.
 
 8. Contact
-  If you have any questions regarding privacy, please contact us:
+  If you have any questions regarding privacy, please contact me:
 
 Email: labs.busch(at)gmail.com
