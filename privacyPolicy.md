@@ -14,7 +14,6 @@ a) Photo Capture
   All photos are stored exclusively locally on the user’s device.  
   No photos are uploaded to servers, cloud services, or third parties.  
   The app developer has no access to the stored photos.  
-
 b) Data Storage  
   All data generated or stored by the app:  
   remains solely on the user’s device  
